@@ -1,6 +1,6 @@
 const path = require('path');
 
-const entryFile = path.resolve(__dirname, 'src', 'client', 'app.js');
+const entryFile = path.resolve(__dirname, 'src', 'client', 'index.js');
 
 const outputDir = path.resolve(__dirname, 'public');
 
